@@ -1,0 +1,6 @@
+numpy==1.21.6
+torch==1.11.0
+torchaudio==0.11.0
+jsonschema==4.4.0
+requests==2.27.1
+git+https://github.com/QosmoInc/neutone_sdk.git#egg=neutone_sdk
